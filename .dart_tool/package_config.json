@@ -50,16 +50,10 @@
       "languageVersion": "3.0"
     },
     {
-      "name": "flutter_web_plugins",
-      "rootUri": "file:///Users/nishchalverma/Projects/sdk/flutter_3.10.1/packages/flutter_web_plugins",
-      "packageUri": "lib/",
-      "languageVersion": "3.0"
-    },
-    {
       "name": "http",
-      "rootUri": "file:///Users/nishchalverma/.pub-cache/hosted/pub.dev/http-1.1.0",
+      "rootUri": "file:///Users/nishchalverma/.pub-cache/hosted/pub.dev/http-0.13.6",
       "packageUri": "lib/",
-      "languageVersion": "3.0"
+      "languageVersion": "2.19"
     },
     {
       "name": "http_parser",
@@ -68,14 +62,8 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "image_cropper_for_web",
-      "rootUri": "file:///Users/nishchalverma/.pub-cache/hosted/pub.dev/image_cropper_for_web-3.0.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.18"
-    },
-    {
       "name": "image_cropper_platform_interface",
-      "rootUri": "file:///Users/nishchalverma/.pub-cache/hosted/pub.dev/image_cropper_platform_interface-5.0.0",
+      "rootUri": "../image_cropper_platform_interface",
       "packageUri": "lib/",
       "languageVersion": "2.18"
     },
@@ -176,7 +164,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-07-04T08:23:23.167081Z",
+  "generated": "2023-07-04T09:59:59.132701Z",
   "generator": "pub",
   "generatorVersion": "3.0.1"
 }
