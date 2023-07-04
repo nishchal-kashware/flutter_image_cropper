@@ -21,6 +21,9 @@
       <excludeFolder url="file://$MODULE_DIR$/image_cropper_for_web/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/image_cropper_for_web/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/image_cropper_for_web/build" />
+      <excludeFolder url="file://$MODULE_DIR$/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/example/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/example/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
