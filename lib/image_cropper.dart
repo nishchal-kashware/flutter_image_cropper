@@ -10,23 +10,7 @@
 /// those platforms.
 ///
 
-// export 'package:image_cropper_platform_interface/image_cropper_platform_interface.dart'
-//     show
-//         CropAspectRatioPreset,
-//         CropStyle,
-//         ImageCompressFormat,
-//         CropAspectRatio,
-//         CroppedFile,
-//         PlatformUiSettings,
-//         WebTranslations,
-//         AndroidUiSettings,
-//         IOSUiSettings,
-//         CropperDialogBuilder,
-//         CropperRouteBuilder,
-//         CropperPresentStyle,
-//         WebUiSettings,
-//         CroppieViewPort,
-//         CroppieBoundary,
-//         RotationAngle;
-
 export 'src/cropper.dart';
+export '../interface/src/platform_interface/image_cropper_platform.dart';
+export '../interface/src/models/settings.dart';
+export '../interface/src/models/cropped_file/cropped_file.dart';
