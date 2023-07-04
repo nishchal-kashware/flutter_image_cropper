@@ -21,11 +21,14 @@ flutter:
 dependencies:
   flutter:
     sdk: flutter
-#  image_cropper_for_web: ^3.0.0
+  image_cropper_platform_interface: ^5.0.0
+  image_cropper_for_web: ^3.0.0
+
+dependency_overrides:
+  image_cropper_platform_interface:
+    path: image_cropper_platform_interface
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   plugin_platform_interface: ^2.0.0
-  image_cropper_platform_interface:
-    path: image_cropper_platform_interface
