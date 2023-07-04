@@ -159,13 +159,6 @@ packages:
       relative: true
     source: path
     version: "5.0.0"
-  image_cropper_platform_interface:
-    dependency: transitive
-    description:
-      path: "../image_cropper_platform_interface"
-      relative: true
-    source: path
-    version: "5.0.0"
   image_picker:
     dependency: "direct main"
     description:

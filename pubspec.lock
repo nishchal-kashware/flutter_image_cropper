@@ -76,7 +76,7 @@ packages:
     source: hosted
     version: "4.0.2"
   image_cropper_platform_interface:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       path: image_cropper_platform_interface
       relative: true
