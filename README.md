@@ -268,8 +268,6 @@ CroppedFile croppedFile = await ImageCropper().cropImage(
     
 ````
 
-</details>
-
 ## Credits
 
 - Android: [uCrop](https://github.com/Yalantis/uCrop) created by [Yalantis](https://github.com/Yalantis)
