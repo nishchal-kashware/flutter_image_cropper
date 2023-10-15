@@ -39,21 +39,21 @@
     },
     {
       "name": "flutter",
-      "rootUri": "file:///Users/nishchalverma/Projects/sdk/flutter_3.10.1/packages/flutter",
+      "rootUri": "file:///Users/nishchalverma/Projects/sdk/flutter/packages/flutter",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "flutter_test",
-      "rootUri": "file:///Users/nishchalverma/Projects/sdk/flutter_3.10.1/packages/flutter_test",
+      "rootUri": "file:///Users/nishchalverma/Projects/sdk/flutter/packages/flutter_test",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
     {
       "name": "http",
-      "rootUri": "file:///Users/nishchalverma/.pub-cache/hosted/pub.dev/http-0.13.6",
+      "rootUri": "file:///Users/nishchalverma/.pub-cache/hosted/pub.dev/http-1.1.0",
       "packageUri": "lib/",
-      "languageVersion": "2.19"
+      "languageVersion": "3.0"
     },
     {
       "name": "http_parser",
@@ -99,7 +99,7 @@
     },
     {
       "name": "sky_engine",
-      "rootUri": "file:///Users/nishchalverma/Projects/sdk/flutter_3.10.1/bin/cache/pkg/sky_engine",
+      "rootUri": "file:///Users/nishchalverma/Projects/sdk/flutter/bin/cache/pkg/sky_engine",
       "packageUri": "lib/",
       "languageVersion": "3.0"
     },
@@ -158,7 +158,7 @@
       "languageVersion": "2.18"
     }
   ],
-  "generated": "2023-07-04T11:20:15.563824Z",
+  "generated": "2023-10-15T16:34:40.322557Z",
   "generator": "pub",
   "generatorVersion": "3.0.1"
 }
